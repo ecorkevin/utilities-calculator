@@ -1,5 +1,7 @@
 ## Utility Calculator
 
+[![CircleCI](https://circleci.com/gh/ecorkevin/utilities-calculator.svg?style=svg)](https://circleci.com/gh/ecorkevin/utilities-calculator)
+
 Simple CLI utility for calculating utility bills, displaying a quick report with totals and how much each roommate
 owes. The report is copied to the clipboard.
 
