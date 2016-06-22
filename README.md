@@ -7,7 +7,7 @@ Simply `npm install` and execute `node index.js` to run the program.
 
 ## Motivation
 
-Decided to create simple program, because I got irritated every month when I had to write up a report for utility
+Decided to create a simple program, because I got irritated every month when I had to write up a report for utility
 bills for my roommates.
 
 ![Screenshot](screenshot.png)
