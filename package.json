@@ -1,0 +1,21 @@
+{
+  "name": "utilities-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "should": "^9.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-eslint": "^18.1.0",
+    "grunt-jsbeautifier": "^0.2.12",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Kevin Moritz",
+  "license": "ISC"
+}
